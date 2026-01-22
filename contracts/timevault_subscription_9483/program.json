@@ -1,0 +1,7 @@
+{
+  "program": "timevault_subscription_9483.aleo",
+  "version": "1.0.0",
+  "description": "TimeVault subscription contract for managing user subscriptions",
+  "license": "MIT",
+  "dependencies": []
+}

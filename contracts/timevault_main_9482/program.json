@@ -1,0 +1,7 @@
+{
+  "program": "timevault_main_9482.aleo",
+  "version": "1.0.0",
+  "description": "TimeVault main contract for storing encrypted time-locked vaults on Aleo",
+  "license": "MIT",
+  "dependencies": []
+}
